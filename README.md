@@ -2,7 +2,9 @@
 Role: Game Programmer
 
 Responsibilities: 
+
 -Implemented assets
+
 -Integrated Google Play Games Services:
   -Achievements
   -Leaderboards
